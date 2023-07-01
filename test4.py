@@ -26,7 +26,7 @@ def upload_folder_to_github(folder_path, repo_url, username, email):
     print('Folder uploaded to GitHub successfully.')
 
 # Usage example
-folder_path = r'C:\Users\PRERNPAN\Music\New folder'
+folder_path = r'C:\Users\PRERNPAN\Music\New folder\abc.txt'
 repo_url = 'https://github.com/prernapandey1398/Migration-tool.git'
 username = 'prernapandey1398'
 email = 'pandeyprerna1998@gmail.com'
